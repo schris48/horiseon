@@ -1,7 +1,7 @@
 ## Horiseon
-<img src="./assets/images/social-media-marketing.jpg" width= "50%" height="50%" role="presentation" aria-hidden="true" style="color: #0072bb">
+<img src="./assets/images/social-media-marketing.jpg" width= "50%" height="50%" role="presentation" aria-hidden="true">
 
-The Horiseon web page is your one-stop resource to find all you need to know about this digital media solution. The easy navigation and intuitive page flow represents the expertise brands and companies can expect from working with Horiseon Social Solution Services, Inc.
+The Horiseon web page is your one-stop resource to find all you need to know about this digital media solution. The easy navigation and intuitive page flow represents the expertise brands and companies can expect when working with Horiseon Social Solution Services, Inc.
 
 * Codebase is optimized for search engines and web accessibility standards.
 * HTML elements follows a logical structure independent of styling and positioning.
