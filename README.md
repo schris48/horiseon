@@ -1,2 +1,2 @@
 # horiseon
-info page for horiseon
+# this is an info page for horiseon
