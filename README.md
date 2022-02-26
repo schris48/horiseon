@@ -1,6 +1,6 @@
 ## Horiseon
 
-<img src="./assets/images/social-media-marketing.jpg" width= "1000px" height="690px" role="presentation" aria-hidden="true">
+<img src="./assets/images/social-media-marketing.jpg" width= "50%" height="50%" role="presentation" aria-hidden="true">
 
 The Horiseon web page is your one-stop resource to find all you need to know about this digital media solution. The easy navigation and intuitive page flow represents the expertise brands and companies can expect from working with Horiseon Social Solution Services, Inc.
 
